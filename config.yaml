@@ -1,0 +1,6 @@
+gcp_project_id: "GCP-project-id"
+gcp_region: "us-central1"
+redis_name: "redis-instance-name"
+listen_addr: ":8080"
+rate: 100
+bucket_size: 200
